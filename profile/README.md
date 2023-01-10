@@ -10,7 +10,7 @@ _________________
 
 💼 [Prof. Daniela Micucci](http://www.sal.disco.unimib.it/people/daniela-micucci/) and [Prof. Paolo Napoletano](http://www.ivl.disco.unimib.it/people/paolo-napoletano/) are the leaders of the eHealth group!
 
-👨‍💻 PhD students: Hamza Amrani
+👨‍💻 PhD students: [Hamza Amrani](https://www.linkedin.com/in/hamza-amrani/)
 
 🎓 Thesis students: Davide Prando (MSc in Data Science)
 
