@@ -1,4 +1,4 @@
-## Welcome to the eHealth group - @IVL, @SAL 👋
+## Welcome to the Digital eHealth group - @IVL, @SAL 👋
 
 🏫 We are located in the [Department of Informatics, Systems and Communication](https://www.disco.unimib.it/it) of the [University of Milan-Bicocca](https://www.unimib.it).
 
