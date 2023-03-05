@@ -12,7 +12,9 @@ _________________
 
 👨‍💻 PhD students: [Hamza Amrani](https://www.linkedin.com/in/hamza-amrani/)
 
-🎓 Thesis students: Davide Prando (MSc in Data Science)
+🎓 Thesis students: 
+- Davide Prando (MSc in Data Science)
+- Nicolae Alexandru Andrei (MSc in Computer Science)
 
 
 
