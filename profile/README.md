@@ -15,6 +15,7 @@ _________________
 🎓 Thesis students: 
 - Davide Prando (MSc in Data Science)
 - Nicolae Alexandru Andrei (MSc in Computer Science)
+- Ilario Rizzi (MSc in Computer Science)
 
 
 
