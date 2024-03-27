@@ -12,12 +12,6 @@ _________________
 
 👨‍💻 PhD students: [Hamza Amrani](https://www.linkedin.com/in/hamza-amrani/)
 
-🎓 Thesis students: 
-- Davide Prando (MSc in Data Science)
-- Nicolae Alexandru Andrei (MSc in Computer Science)
-- Ilario Rizzi (MSc in Computer Science)
-
-
 
 _________________
 👥 If you want to reach us or work with us, please contact us at: [h.amrani@campus.unimib.it](h.amrani@campus.unimib.it), [daniela.micucci@unimib.it](daniela.micucci@unimib.it), [paolo.napoletano@unimib.it](paolo.napoletano@unimib.it)
